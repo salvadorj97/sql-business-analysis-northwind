@@ -27,10 +27,10 @@ suppliers.id  ──<  products.supplier_ids
 
 | File | Topic | Skills shown |
 |---|---|---|
-| [01_joins.sql](queries/01_joins.sql) | Linking orders to customers, employees, products | `INNER JOIN`, `LEFT JOIN`, finding missing data |
-| [02_aggregation.sql](queries/02_aggregation.sql) | Sales KPIs per customer, product, employee, month | `GROUP BY`, `HAVING`, `SUM`, `COUNT`, `AVG` |
-| [03_subqueries.sql](queries/03_subqueries.sql) | Comparing against averages, top performers | subqueries, `EXISTS`, correlated subqueries |
-| [04_data_quality.sql](queries/04_data_quality.sql) | Cleaning and controlling data before reporting | `CASE`, `COALESCE`, text and date functions |
+| [01_joins.sql](/01_joins.sql) | Linking orders to customers, employees, products | `INNER JOIN`, `LEFT JOIN`, finding missing data |
+| [02_aggregation.sql](/02_aggregation.sql) | Sales KPIs per customer, product, employee, month | `GROUP BY`, `HAVING`, `SUM`, `COUNT`, `AVG` |
+| [03_subqueries.sql](/03_subqueries.sql) | Comparing against averages, top performers | subqueries, `EXISTS`, correlated subqueries |
+| [04_data_quality.sql](/04_data_quality.sql) | Cleaning and controlling data before reporting | `CASE`, `COALESCE`, text and date functions |
 
 ## Why this matters for a Business Analyst
 
