@@ -23,6 +23,12 @@ products.id   ──<  order_details.product_id
 suppliers.id  ──<  products.supplier_ids
 ```
 
+## How to reproduce
+
+1. Download the MySQL version of Northwind: https://github.com/dalers/mywind
+2. Run `northwind.sql` (structure) then `northwind-data.sql` (data) in MySQL Workbench
+3. Run `USE northwind;` and execute any query from this repo
+
 ## Contents
 
 | File | Topic | Skills shown |
